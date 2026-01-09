@@ -1,6 +1,6 @@
 # AIxBio Workshops
 
-Materials for AI x Bio workshops. Initially for "Ctrl+Alt+Biology: Workshops series on enabling AI approaches in biological research" 2026 at UCL.
+Materials for AI x Bio workshops. Initially for "Ctrl+Alt+Biology: Workshops series on enabling AI approaches in biological research" 2026 at UCL. The repository is actively under development!
 
 For each workshop we will collate:
 * Colab notebook(s) with step-by-step guides on the content covered. Can use ColabFold notebook (https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) as a model.
