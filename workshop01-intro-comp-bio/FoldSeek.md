@@ -4,6 +4,8 @@
 
 Below are a list of examples that illustrate the use of FoldSeek (and its associated tools FoldSeek-Multimer, FoldDisco and FoldMason). Please feel free to try this out yourselves. We will provide explanation on how to run them and how to interpret the results - please feel free to ask for help if you need it!
 
+**Link to FoldSeek web-server: <https://search.foldseek.com/search>**
+
 1.	FoldSeek examples
 
   * A Tumour Necrosis Factor (TNF) receptor mimic from Cowpox virus: PDB [2uwi](https://www.ebi.ac.uk/pdbe/entry/pdb/2uwi). Make a note of what FoldSeek's top hits are. We will also take this opportunity to explain and discuss the different search databases available on FoldSeek.
