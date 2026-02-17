@@ -1,5 +1,7 @@
 # FoldSeek practical (around 45 minutes)
 
+*Joseph Ng, February 2026*
+
 Below are a list of examples that illustrate the use of FoldSeek (and its associated tools FoldSeek-Multimer, FoldDisco and FoldMason). Please feel free to try this out yourselves. We will provide explanation on how to run them and how to interpret the results - please feel free to ask for help if you need it!
 
 1.	FoldSeek examples
