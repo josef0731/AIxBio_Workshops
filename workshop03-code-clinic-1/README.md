@@ -38,7 +38,7 @@ A great paper - not a tutorial per se, but written specifically for researchers 
 
 ---
 
-## Part 2: Coursera/edX Courses for ML/AI in Bioinformatics
+## Part 2: Coursera/edX Courses for ML/AI, Python and Bioinformatics
 
 These are ordered from most accessible (biology-first) to more technical:
 
@@ -64,4 +64,16 @@ The gold-standard intro to ML by Andrew Ng. Not biology-specific, but gives a ri
 
 🔗 https://www.coursera.org/specializations/ai-for-medicine
 
-A three-course specialization offering practical experience in applying machine learning to concrete medical problems — covering medical imaging with CNNs, patient risk modeling, survival analysis, and NLP for radiology reports. Requires some Python familiarity.
+A three-course specialization offering practical experience in applying machine learning to concrete medical problems. Requires some Python familiarity.
+
+**6. Python for Everybody Specialization — University of Michigan (Coursera)**
+
+🔗 https://www.coursera.org/specializations/python
+
+An excellent beginner Python course!
+
+**7.  Biology Meets Programming: Bioinformatics for Beginners — UC San Diego (Coursera)**
+
+🔗 https://www.coursera.org/learn/bioinformatics
+
+On algorithms for solving biological problems, with programming challenges to implement those algorithms in Python. 
