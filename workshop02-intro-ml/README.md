@@ -1,10 +1,20 @@
-# Workshop 2: Introduction to machine learning
+# Workshop: Introduction to machine learning
+
+## Original run
 
 Date: 25th February 2026 (Wed)
 
 Time: 14:00-17:00
 
 Venue: H O Schild LT room at the Medical Sciences building
+
+## Re-run
+
+Date: 13th May 2026 (Wed)
+
+Time: 14:00-17:00
+
+Venue: 20 Bedford Way (Institute of Education), Room 421 (Nunn Hall)
 
 ## Resources
 
