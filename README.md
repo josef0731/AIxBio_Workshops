@@ -27,6 +27,6 @@ This is the plan - for each workshop:
 | 5        | 13-May-26 (Weds) | 2-5pm | IOE 20 Bedford Way Room 421 (Nunn Hall)               | Introduction to machine learning (rerun) | |Andreas, Lucia, Antonio |
 | 6        | 3-Jun-26 (Weds) | 2-5pm | TBC               | Using large language models (LLMs)                  | Logits for likely AAs and mutational effect prediction; Embeddings & sequence clustering; Classification | Andreas, Lucia, Antonio |
 | 7        | 10-Jun-26 (Weds) | 2-5pm | TBC              | Using AI tools for protein design                   | RFDiffusion, ProteinMPNN etc.                                                                            | Carlos, Dongjun                  |
-| 8        | 24-Jun-26 (Weds) | 2-5pm | TBC              | Foldseek (rerun)                                     |                                   | Joseph, Gorka                         |
-| 9        | 01-Jul-26 (Weds) | 2-5pm | TBC              | Using AI tools for transcriptomic analysis          | VAE for cell clustering, batch effect removal; Transformers for transcriptomics; etc.                    | Joseph, Hana            |
+| 8        | 24-Jun-26 (Weds) | 2-5pm | TBC              | Using AI tools for transcriptomic analysis          | VAE for cell clustering, batch effect removal; Transformers for transcriptomics; etc.                    | Joseph, Hana            |
+| 9        | 01-Jul-26 (Weds) | 2-5pm | TBC              | Foldseek (rerun)                                     |                                   | Joseph, Gorka                         |
 
