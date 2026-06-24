@@ -9,4 +9,4 @@ Notebook in this repository.
 <a target="_blank" href="https://colab.research.google.com/github/josef0731/AIxBio_Workshops/blob/main/workshop09-transcriptomics/AI_transcriptomics_scvi.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
+Slides used in the workshop can be found in the PDF document in this folder.
